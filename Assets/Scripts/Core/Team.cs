@@ -1,27 +1,10 @@
 using UnityEngine;
 
 
+//Posibles equipos a los que pertenece la chapa
 public enum Teams
 {
     TeamA, 
     TeamB
 }
-public class Team : MonoBehaviour
-{
 
-
-    
-    
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-}
